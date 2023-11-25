@@ -1,7 +1,5 @@
 "use client";
 import clsx from "clsx";
-import { error } from "console";
-import { register } from "module";
 import { FieldErrors, FieldValues, UseFormRegister } from "react-hook-form";
 
 interface InputProps {
